@@ -9,6 +9,7 @@ public class Clock : MonoBehaviour
 
     public Transform hours, minutes, seconds;
     private const float
+
         hoursToDegrees = 360f / 12f,
         minutesToDegrees = 360f / 60f,
         secondsToDegrees = 360f / 60f;
@@ -17,6 +18,7 @@ public class Clock : MonoBehaviour
 
     void Start ()
     {
+       
 
 		
 	}
