@@ -6,7 +6,7 @@ using System;
 public class Clock : MonoBehaviour
 {
 
-
+//this is a clock 
     public Transform hours, minutes, seconds;
     private const float
 
